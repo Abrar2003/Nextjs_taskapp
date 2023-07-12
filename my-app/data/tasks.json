@@ -1,0 +1,17 @@
+{
+    "tasks":[
+        {
+            "id": "1",
+            "title": "Feed the cat",
+            "description": "feed the cat",
+            "status": "To Do"
+        },
+        {
+            "id": "2",
+            "title": "Water the plants",
+            "description": "Water plants on the roof and on the balcony",
+            "status": "To Do"
+        }
+ 
+    ]
+}
