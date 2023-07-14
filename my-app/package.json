@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "serve": "json-server --watch ./data/tasks.json --port 8080"
+    "lint": "next lint"
   },
   "dependencies": {
     "@types/node": "20.4.1",
